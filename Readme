@@ -1,0 +1,7 @@
+
+TO FORM DATA:
+python Data_form.py
+
+TO RUN C++ code:
+g++ code_run.cpp -o code
+./code 

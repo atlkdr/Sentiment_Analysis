@@ -1,0 +1,7 @@
+Depth-of-Tree 4 Accuracy[Train]: 64.3 Nodes: 21 Accuracy[Test]: 63.3
+Depth-of-Tree 5 Accuracy[Train]: 64.8 Nodes: 31 Accuracy[Test]: 63.4
+Depth-of-Tree 6 Accuracy[Train]: 65.4 Nodes: 43 Accuracy[Test]: 63.4
+Depth-of-Tree 7 Accuracy[Train]: 65.7 Nodes: 53 Accuracy[Test]: 63.4
+Depth-of-Tree 8 Accuracy[Train]: 65.9 Nodes: 65 Accuracy[Test]: 63.4
+Depth-of-Tree 9 Accuracy[Train]: 66 Nodes: 75 Accuracy[Test]: 63.3
+Depth-of-Tree 10 Accuracy[Train]: 66.3 Nodes: 83 Accuracy[Test]: 63.5
